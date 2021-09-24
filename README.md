@@ -23,6 +23,7 @@ yarn start
 Finally, the website will be generated autoly.
 
 # How can you achieve (guidelines by Udacity)
+
 ## Planning Stage
 Step 1 - Draw All of the Views of the App<br>
 You can also try to use <a href="https://codingsans.com/blog/mockup-tools">software for creating mockups</a>.  <br>
@@ -39,6 +40,7 @@ Step 4 - Determine Which Component Each Piece of Data Should Live in<br>
 If multiple components need the same data, lift the state up by storing the data in the components' closest common ancestor. <br>
 Take a look at these example to see how that's done: <a href="https://reactjs.org/docs/lifting-state-up.html">Lifting State Up</a> and <a href="https://reactjs.org/docs/thinking-in-react.html">Thinking in React</a>.<br>
 <br>
+
 ## Coding Stage
 Step 1 - Create components that hold data.<br>
 Build all of the components that hold data and make sure everything works correctly, <br>
